@@ -1,6 +1,17 @@
 ### Hi there 👋
 
-I am Shreya Bhattacharya, sophomore
+⚡ Fun fact: _It’s all 0’s and 1’s_
+
+Hey! I am **Shreya Bhattacharya,** a second-year undergraduate from IIT Kanpur pursuing B.Tech in Materials Science and Engineering. 
+
+- 🌱 I’m currently learning data structures and algorithms
+- 👯 I’m looking to collaborate on machine learning and deep learning
+
+📫 How to reach me: 
+        - Email : shreyab20@iitk.ac.in
+        - Linkedin : https://www.linkedin.com/in/shreyabhattacharya2001/
+
+ ✨ _It’s all 0’s and 1’s_ ✨
 <!--
 **shreyabhatta/shreyabhatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
