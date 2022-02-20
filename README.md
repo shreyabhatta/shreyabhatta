@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-⚡ Fun fact: _It’s all 0’s and 1’s_
-
 Hey! I am **Shreya Bhattacharya,** a second-year undergraduate from IIT Kanpur pursuing B.Tech in Materials Science and Engineering. 
 
 - 🌱 I’m currently learning data structures and algorithms
