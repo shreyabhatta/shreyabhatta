@@ -10,6 +10,8 @@ Hey! I am **Shreya Bhattacharya,** a second-year undergraduate from IIT Kanpur p
         - Linkedin : https://www.linkedin.com/in/shreyabhattacharya2001/
 
  ✨ _It’s all 0’s and 1’s_ ✨
+ 
+ ⚡ _"Unfinished projects are a symbol of progress, not of imperfection."_ ⚡
 <!--
 **shreyabhatta/shreyabhatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
