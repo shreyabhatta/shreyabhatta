@@ -2,7 +2,7 @@
 
 Hey! I am **Shreya Bhattacharya,** a second-year undergraduate from IIT Kanpur pursuing B.Tech in Materials Science and Engineering. 
 
-- 🌱 I’m currently learning data structures and algorithms
+- 🌱 I’m currently learning Natural Language Processing
 - 👯 I’m looking to collaborate on machine learning and deep learning
 
 📫 How to reach me: 
