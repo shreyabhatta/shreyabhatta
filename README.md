@@ -8,7 +8,7 @@ Hey! I am **Shreya Bhattacharya,** a third-year undergraduate from IIT Kanpur pu
 
 📫 How to reach me: 
         - Email : shreyab20@iitk.ac.in
-        - Linkedin : [shreyabhattacharya2001][2]https://www.linkedin.com/in/shreyabhattacharya2001/
+        - Linkedin : [shreyabhattacharya2001][2]
 
  ✨ _It’s all 0’s and 1’s_ ✨
  
