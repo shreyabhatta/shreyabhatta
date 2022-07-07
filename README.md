@@ -4,17 +4,20 @@ Hey! I am **Shreya Bhattacharya,** a third-year undergraduate from IIT Kanpur pu
 
 - 🌱 I’m currently learning Natural Language Processing
 - 👯 I’m looking to collaborate on machine learning and deep learning
-- 💬 Link to resume : https://drive.google.com/file/d/1vQU-4B5XsuY7NxyPcEv8nlShF2JmJP0m/view?usp=sharing
+- 💬 Link to resume : [Resume][1]
 
 📫 How to reach me: 
         - Email : shreyab20@iitk.ac.in
-        - Linkedin : https://www.linkedin.com/in/shreyabhattacharya2001/
-        
-        <a href="https://www.google.com/" target="_blank">Google</a>
+        - Linkedin : [shreyabhattacharya2001][2]https://www.linkedin.com/in/shreyabhattacharya2001/
 
  ✨ _It’s all 0’s and 1’s_ ✨
  
  ⚡ _"Unfinished projects are a symbol of progress, not of imperfection."_ ⚡
+ 
+ 
+ [1]: https://drive.google.com/file/d/1vQU-4B5XsuY7NxyPcEv8nlShF2JmJP0m/view?usp=sharing        "Resume"
+ [2]: https://www.linkedin.com/in/shreyabhattacharya2001/                                       "shreyabhattacharya2001"
+ 
 <!--
 **shreyabhatta/shreyabhatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
