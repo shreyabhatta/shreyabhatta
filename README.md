@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-Hey! I am **Shreya Bhattacharya,** a second-year undergraduate from IIT Kanpur pursuing B.Tech in Materials Science and Engineering. 
+Hey! I am **Shreya Bhattacharya,** a third-year undergraduate from IIT Kanpur pursuing B.Tech in Materials Science and Engineering. 
 
 - 🌱 I’m currently learning Natural Language Processing
 - 👯 I’m looking to collaborate on machine learning and deep learning
+- 💬 Link to resume : https://drive.google.com/file/d/1vQU-4B5XsuY7NxyPcEv8nlShF2JmJP0m/view?usp=sharing
 
 📫 How to reach me: 
         - Email : shreyab20@iitk.ac.in
