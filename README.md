@@ -5,7 +5,7 @@ Hey! I am **Shreya Bhattacharya,** a third-year undergraduate from IIT Kanpur pu
 - 🌱 I’m currently learning Full-stack development
 - 👯 I’m looking to collaborate on machine learning and computer vision
 - 💬 Link to resume : [Resume][1]
-- 🤔 My other woro: [Portfolio][3]
+- 🤔 My other work: [Portfolio][3]
 
 📫 How to reach me: 
         - Email : shreyab20@iitk.ac.in
