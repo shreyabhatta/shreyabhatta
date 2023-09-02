@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hey! I am **Shreya Bhattacharya,** a third-year undergraduate from IIT Kanpur pursuing B.Tech in Materials Science and Engineering. 
+Hey! I am **Shreya Bhattacharya,** a final year undergraduate from IIT Kanpur pursuing B.Tech in Materials Science and Engineering. 
 
 - 🌱 I’m currently learning Full-stack development
 - 👯 I’m looking to collaborate on machine learning and computer vision
@@ -17,8 +17,8 @@ Hey! I am **Shreya Bhattacharya,** a third-year undergraduate from IIT Kanpur pu
  
  
  [1]: https://drive.google.com/file/d/1vQU-4B5XsuY7NxyPcEv8nlShF2JmJP0m/view?usp=sharing        "Resume"
- [2]: https://www.linkedin.com/in/shreyabhattacharya2001/                                       "shreyabhattacharya2001"
- [3]: https://www.notion.so/shreyab20/Shreya-Bhattacharya-c2419cc17aa247fbb89ab05c69236b60      "Portfolio"
+ [2]: https://www.linkedin.com/in/shreyab20/                                       "shreyabhattacharya2001"
+ [3]: https://shreyabhatta.      "Portfolio"
  
 <!--
 **shreyabhatta/shreyabhatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
