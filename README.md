@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-Hey! I am **Shreya Bhattacharya,** a final year undergraduate from IIT Kanpur pursuing B.Tech in Materials Science and Engineering. 
+Hey! I am **Shreya Bhattacharya** and I am currently working as a Product Analyst in Zomato.
 
 - 🌱 I’m currently learning Full-stack development
-- 👯 I’m looking to collaborate on machine learning and computer vision
-- 💬 Link to resume : [Resume][1]
+- 👯 I’m looking to collaborate on ML and product analytics
 - 🤔 My other work: [Portfolio][3]
 
 📫 How to reach me: 
-        - Email : shreyab20@iitk.ac.in
         - Linkedin : [shreyabhattacharya2001][2]
 
  ✨ _It’s all 0’s and 1’s_ ✨
