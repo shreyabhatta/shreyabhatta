@@ -2,7 +2,7 @@
 
 Hey! I am **Shreya Bhattacharya** and I am currently working as a Product Analyst in Zomato.
 
-- 👯 I’m looking to collaborate on ML and product analytics
+- 👯 I’m looking to collaborate on product data science and analytics
 - 🤔 My other work: [Portfolio][3]
 
 📫 How to reach me: 
