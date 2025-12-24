@@ -3,7 +3,6 @@
 Hey! I am **Shreya Bhattacharya** and I am currently working as a Product Analyst in Zomato.
 
 - 👯 I’m looking to collaborate on product data science and analytics
-- 🤔 My other work: [Portfolio][3]
 
 📫 How to reach me: 
         - Linkedin : [shreyabhattacharya2001][2]
@@ -13,9 +12,8 @@ Hey! I am **Shreya Bhattacharya** and I am currently working as a Product Analys
  ⚡ _"Unfinished projects are a symbol of progress, not of imperfection."_ ⚡
  
  
- [1]: https://drive.google.com/file/d/1vQU-4B5XsuY7NxyPcEv8nlShF2JmJP0m/view?usp=sharing        "Resume"
- [2]: https://www.linkedin.com/in/shreyab20/                                       "shreyabhattacharya2001"
- [3]: https://shreyabhatta.      "Portfolio"
+ [1]: https://www.linkedin.com/in/shreyab20/                                       "shreyabhattacharya2001"
+ [2]: https://shreyabhatta.github.io      "Portfolio"
  
 <!--
 **shreyabhatta/shreyabhatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
